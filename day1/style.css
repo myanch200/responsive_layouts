@@ -1,0 +1,13 @@
+.parent{
+  background-color: darkblue;
+  padding: 50px;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.child{
+  background-color: lightblue;
+  padding: 50px;
+  margin: 0 auto;
+  width:60%;
+}
